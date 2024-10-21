@@ -14,7 +14,7 @@
 - []()Machine Learning with Python
 - []()College Algebra with Python
 
-## 🔰 English for Developers
+## 🇬🇧 English for Developers
 - []()A2 English for Developers (Beta)
 
 ## ⚔ Professional certifications
