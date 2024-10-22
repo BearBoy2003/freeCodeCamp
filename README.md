@@ -1,7 +1,7 @@
 ![](https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png)
 
 ## 📚 Verified certifications with freeCodeCamp's core curriculum
-- [](https://github.com/BearBoy2003/freeCodeCamp/tree/main/Responsive%20Web%20Design)Responsive Web Design
+- [Responsive Web Design](https://github.com/BearBoy2003/freeCodeCamp/tree/main/Responsive%20Web%20Design)
 - []()JavaScript Algorithms and Data Structures (Beta)
 - []()Frontend Development Libraries
 - []()Data Visualization
